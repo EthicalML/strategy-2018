@@ -121,17 +121,7 @@ We develop industry frameworks and practical research that empowers technologist
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ## The core Principles
 
-<iframe style="height: 50vh; width: 100vw" src="http://ethical.institute#principles"></iframe>
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-# [DISCUSSION: Core]
-
-_note_
-
-
-
+![full_width](images/principles.jpg)
 
 
 [NEXT SECTION]
@@ -158,26 +148,13 @@ _note_
 
 ## Ethical AI Network Launch
 
-<iframe style="height: 50vh; width: 100vw" src="http://ethical.institute#network"></iframe>
-
-
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-## 40+ Ethical AI members
+### 40+ Ethical AI members
 
 * Professors & researchers in Computer Science, AI, Philosophy, Cybersecurity and beyond
 * Founders from fast growing AI scale-ups
 * Thought leaders from government departments
 * Directors from large corporates across construction, transport, finance, legal and insurance
 * Senior machine learning, software & data engineers from top tech companies
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-## [DISCUSSION: NETWORK]
-
 
 
 [NEXT]
@@ -235,13 +212,6 @@ _note_
 
 </div>
 
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-## [DISCUSSION: FRAMEWORK]
-
-
-
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
@@ -276,12 +246,6 @@ _note_
 
 We are now contributors to practitioners board
 
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-## [DISCUSSION: STANDARDS]
-
-
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
@@ -290,7 +254,6 @@ We are now contributors to practitioners board
 
 # Exploratory 
 
-### [DISCUSSION]
 
 
 
@@ -336,18 +299,12 @@ Should be fully aligned with the core of the institute:
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-## [DISCUSSION: BUSINESS MODEL]
-
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ## Beyond 2019
 
 # FOCUS
 
 ### Areas that should be tackled
 
-#### [DISCUSSION]
 
 
 
