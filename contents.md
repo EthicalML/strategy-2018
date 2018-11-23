@@ -31,7 +31,7 @@
 
 ## Introductions
 
-* Beth West - Head of Development London, Landsec
+<!--* Beth West - Head of Development London, Landsec
 * Adam Kosiorek - Researcher, U.of Oxford
 * Lucy Yu - Director of Public Policy, FiveAI
 * Alex Housley - CEO, Seldon 
@@ -39,7 +39,7 @@
 * Tim Haynes - Science Officer, US Embassy
 * Dr. Owen King - Ethicist & Researcher, U. of Twente
 * Hezron Rickets - CSO, The3rdCurve
-
+-->
 
 
 [NEXT]
